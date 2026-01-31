@@ -3,7 +3,7 @@
 I'm a passionate **Full Stack Developer** specializing in the **MERN stack**. I love building interactive and user-friendly web applications with clean, modern design.
 
 [![GitHub followers](https://img.shields.io/github/followers/TariqCO?label=Follow&style=social)](https://github.com/TariqCO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq-blue)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq-blue)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tariq-1712tr/))
 
 ---
 
