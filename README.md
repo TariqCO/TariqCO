@@ -24,8 +24,8 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack**. I 
 - Performance optimization for React applications  
 
 📫 **Get in touch:**  
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tariq-1712tr/))  
-- [Portfolio]([https://your-portfolio-link.com](https://my-portfolio-three-iota-48.vercel.app/))  
-
+- [LinkedIn](https://www.linkedin.com/in/tariq-1712tr/)
+- [Portfolio](https://my-portfolio-three-iota-48.vercel.app/)
+ 
 ✨ **Fun Fact:**  
 I love experimenting with AI in coding and creating interactive web apps that users enjoy.
