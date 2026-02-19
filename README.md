@@ -1,31 +1,53 @@
-# Hi, I'm Tariq 👋
+# Hi, I'm Tariq 👋  
+### Full Stack Developer | MERN Stack | AI-Driven Web Apps
 
-I'm a passionate **Full Stack Developer** specializing in the **MERN stack**. I love building interactive and user-friendly web applications with clean, modern design.
+I build **scalable, high-performance web applications** with a strong focus on  
+**clean architecture, modern UI, and real-world usability**.
 
 [![GitHub followers](https://img.shields.io/github/followers/TariqCO?label=Follow&style=social)](https://github.com/TariqCO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq-blue)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tariq-1712tr/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq-blue)](https://www.linkedin.com/in/tariq-1712tr/)
 
 ---
 
-💻 **Skills & Technologies**  
-- **Frontend:** React, Tailwind CSS, ShadCN UI, Framer Motion, Vite  
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs  
-- **Tools:** Git, GitHub, VS Code, Postman  
-- **Others:** AI integration in web apps, API handling, responsive & dark-mode design  
+## 🛠 Tech Stack
+**Frontend**
+- React, Tailwind CSS, ShadCN UI
+- Framer Motion, Vite
 
-🚀 **What I do:**  
-- Build **feature-rich web applications** from scratch  
-- Implement **AI-based solutions** for smarter apps  
-- Create **professional UI/UX** with dark mode and responsive layouts  
-- Optimize **backend APIs** for speed, security, and reliability  
+**Backend**
+- Node.js, Express.js
+- MongoDB, REST APIs
 
-🌱 **Currently Learning:**  
-- Advanced AI integration with web platforms  
-- Performance optimization for React applications  
+**Tools**
+- Git & GitHub
+- VS Code, Postman
 
-📫 **Get in touch:**  
-- [LinkedIn](https://www.linkedin.com/in/tariq-1712tr/)
-- [Portfolio](https://my-portfolio-three-iota-48.vercel.app/)
- 
+**Special Focus**
+- AI integration in web applications
+- Dark mode & responsive design
+- Performance-optimized APIs
+
+---
+
+## 🚀 What I Do
+- Design and develop **end-to-end MERN applications**
+- Build **AI-powered features** for smarter user experiences
+- Create **production-ready UI/UX** with accessibility in mind
+- Optimize backend systems for **speed, scalability, and security**
+
+---
+
+## 🌱 Currently Learning
+- Advanced AI integration for web platforms  
+- Performance optimization in large React applications  
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/tariq-1712tr/  
+- **Portfolio:** https://my-portfolio-three-iota-48.vercel.app/
+
+---
+
 ✨ **Fun Fact:**  
-I love experimenting with AI in coding and creating interactive web apps that users enjoy.
+I enjoy turning complex ideas into **simple, elegant, and intelligent web solutions**.
